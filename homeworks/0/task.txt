@@ -1,0 +1,21 @@
+Задание. ML_Seminar_1
+Дедлайн. 09:00 20.02.2017
+
+Описание.
+Переписать блокноты по кроссвалидации и knn (https://github.com/ml-mipt/ml-mipt-part1/tree/master/2017/seminars/02-sklearn), используя модуль model_selection, причём в блокноте про knn, сделайте график зависимости качества по кроссвалидации от k и качества на тесте от k и подберите оптимальное значение для каждого из вариантов и объясните результаты.
+
+Заранее предупреждаю, за списывание караются все стороны без разбирательств.
+
+Ссылки::
+Git + Git Bash. Собственно git и удобная консоль для windows. 
+Anaconda (дистрибутив питона с многими пакетами (numpy, scipy, sklearn) и утилитами (ipython, pip)). https://www.continuum.io/downloads 
+IDE для питона. https://www.jetbrains.com/pycharm/ 
+Установка sklearn + на этом же сайта прекрасная документация. http://scikit-learn.org/stable/install.html 
+Документации Scipy и Numpy. https://docs.scipy.org/doc/
+Git + Git Bash. Собственно git и удобная консоль для windows. https://git-scm.com/downloads 
+Anaconda (дистрибутив питона с многими пакетами (numpy, scipy, sklearn) и утилитами (ipython, pip)). https://www.continuum.io/downloads 
+IDE для питона. https://www.jetbrains.com/pycharm/ 
+Установка sklearn + на этом же сайта прекрасная документация. http://scikit-learn.org/stable/install.html 
+Документации Scipy и Numpy. https://docs.scipy.org/doc/ 
+Интерактивный самоучитель/игрушка по git: https://try.github.io/levels/1/challenges/1 
+
