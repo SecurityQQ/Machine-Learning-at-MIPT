@@ -1,0 +1,93 @@
+Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 16:21:13.497992Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 16:54:01.659193Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 16:54:48.832166Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 16:56:53.014334Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 16:57:05.720844Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 16:58:34.465645Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 17:01:18.091029Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 17:07:40.560306Config: {'width': 1, 'dropout': 0.3}Time: 2017-04-26 17:33:36.499311Time: 2017-04-26 17:37:25.089583
+-------------NEW ERA -----------
+Config {'width': 1, 'dropout': 0.3}
+Epoch 1 of 5 took 228.589s 
+  training loss (in-iteration):		2.151797 
+  train accuracy:		24.13 % 
+  validation accuracy:		31.68 % 
+Underfitting LR. New LR:0.01Time: 2017-04-26 17:41:13.492281Epoch 2 of 5 took 228.402s 
+  training loss (in-iteration):		1.766263 
+  train accuracy:		34.53 % 
+  validation accuracy:		39.59 % 
+Underfitting LR. New LR:0.00707106781187Config: {'width': 10, 'dropout': 0.3}Time: 2017-04-26 17:57:55.152712Time: 2017-04-26 18:28:00.515211
+
+-------------NEW ERA -----------
+Config {'width': 10, 'dropout': 0.3}
+Epoch 1 of 5 took 1805.361s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.02 % 
+  validation accuracy:		10.00 % 
+Config: {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 19:00:08.747896Config: {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 19:00:46.510411Time: 2017-04-26 19:30:48.603159
+
+-------------NEW ERA -----------
+Config {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 1802.092s 
+  training loss (in-iteration):		nan 
+  train accuracy:		9.97 % 
+  validation accuracy:		10.00 % 
+Config: {'width': 1, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 19:37:33.669908Time: 2017-04-26 19:37:58.030995
+
+-------------NEW ERA -----------
+Config {'width': 1, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 24.360s 
+  training loss (in-iteration):		1.730667 
+  train accuracy:		38.54 % 
+  validation accuracy:		47.72 % 
+Time: 2017-04-26 19:38:20.389542
+Epoch 2 of 5 took 22.358s 
+  training loss (in-iteration):		1.468199 
+  train accuracy:		47.80 % 
+  validation accuracy:		52.02 % 
+Time: 2017-04-26 19:38:43.012962
+Epoch 3 of 5 took 22.623s 
+  training loss (in-iteration):		1.375529 
+  train accuracy:		51.36 % 
+  validation accuracy:		53.75 % 
+Config: {'width': 1, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 19:39:22.592343Time: 2017-04-26 19:39:45.992829
+
+-------------NEW ERA -----------
+Config {'width': 1, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 23.400s 
+  training loss (in-iteration):		1.310329 
+  train accuracy:		53.96 % 
+  validation accuracy:		56.91 % 
+Config: {'width': 1, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 19:41:44.645049Time: 2017-04-26 19:45:28.796583
+
+-------------NEW ERA -----------
+Config {'width': 1, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 224.151s 
+  training loss (in-iteration):		2.765537 
+  train accuracy:		18.63 % 
+  validation accuracy:		28.11 % 
+Config: {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 19:50:01.091692Time: 2017-04-26 20:19:30.423303
+
+-------------NEW ERA -----------
+Config {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 1769.331s 
+  training loss (in-iteration):		nan 
+  train accuracy:		9.99 % 
+  validation accuracy:		10.00 % 
+Config: {'width': 10, 'dropout': 0.0, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 20:32:57.210264Time: 2017-04-26 21:01:59.585363
+
+-------------NEW ERA -----------
+Config {'width': 10, 'dropout': 0.0, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 1742.374s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.01 % 
+  validation accuracy:		10.00 % 
+Config: {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}Time: 2017-04-26 22:16:14.303902Time: 2017-04-26 22:48:11.164020
+
+-------------NEW ERA -----------
+Config {'width': 10, 'dropout': 0.3, 'lr': 0.01, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 1916.860s 
+  training loss (in-iteration):		nan 
+  train accuracy:		9.99 % 
+  validation accuracy:		10.00 % 
+Config: {'width': 10, 'dropout': 0.3, 'lr': 0.005, 'l2_reg': 5e-05}Time: 2017-04-26 23:25:47.306131Time: 2017-04-27 00:05:39.520267
+
+-------------NEW ERA -----------
+Config {'width': 10, 'dropout': 0.3, 'lr': 0.005, 'l2_reg': 5e-05}
+Epoch 1 of 5 took 2392.214s 
+  training loss (in-iteration):		146.584950 
+  train accuracy:		10.85 % 
+  validation accuracy:		10.75 % 

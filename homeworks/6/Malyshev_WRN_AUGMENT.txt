@@ -1,0 +1,322 @@
+-------------NEW ERA -----------
+Epoch 1 of 15 took 777.265s 
+  training loss (in-iteration):		0.496016 
+  train accuracy:		83.25 % 
+  validation accuracy:		82.47 % 
+Epoch 2 of 15 took 778.574s 
+  training loss (in-iteration):		0.365749 
+  train accuracy:		87.50 % 
+  validation accuracy:		82.96 % 
+Epoch 3 of 15 took 779.679s 
+  training loss (in-iteration):		0.313621 
+  train accuracy:		88.99 % 
+  validation accuracy:		84.29 % 
+Epoch 4 of 15 took 812.876s 
+  training loss (in-iteration):		0.269744 
+  train accuracy:		90.62 % 
+  validation accuracy:		84.08 % 
+Epoch 5 of 15 took 1647.673s 
+  training loss (in-iteration):		0.240598 
+  train accuracy:		91.80 % 
+  validation accuracy:		84.02 % 
+Epoch 6 of 15 took 872.281s 
+  training loss (in-iteration):		0.212462 
+  train accuracy:		92.59 % 
+  validation accuracy:		84.09 % 
+Epoch 7 of 15 took 778.795s 
+  training loss (in-iteration):		0.188465 
+  train accuracy:		93.35 % 
+  validation accuracy:		84.21 % 
+Epoch 8 of 15 took 778.360s 
+  training loss (in-iteration):		0.170323 
+  train accuracy:		94.00 % 
+  validation accuracy:		85.12 % 
+Epoch 9 of 15 took 777.922s 
+  training loss (in-iteration):		0.156084 
+  train accuracy:		94.48 % 
+  validation accuracy:		85.06 % 
+Epoch 10 of 15 took 778.772s 
+  training loss (in-iteration):		0.138513 
+  train accuracy:		95.12 % 
+  validation accuracy:		84.96 % 
+Epoch 11 of 15 took 778.346s 
+  training loss (in-iteration):		0.122102 
+  train accuracy:		95.81 % 
+  validation accuracy:		85.47 % 
+Epoch 12 of 15 took 779.001s 
+  training loss (in-iteration):		0.111645 
+  train accuracy:		96.14 % 
+  validation accuracy:		86.33 % 
+-------------NEW ERA -----------
+Epoch 1 of 15 took 665.025s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.03 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.01Epoch 2 of 15 took 666.039s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.01 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.01-------------NEW ERA -----------
+Epoch 1 of 15 took 51.527s 
+  training loss (in-iteration):		1.772569 
+  train accuracy:		32.56 % 
+  validation accuracy:		40.29 % 
+Incressing LR. New LR:1.0Epoch 2 of 15 took 52.646s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.06 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.707106781187Epoch 3 of 15 took 52.340s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.00 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.57735026919Epoch 4 of 15 took 52.867s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.00 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.5Epoch 5 of 15 took 52.812s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.00 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.4472135955Epoch 6 of 15 took 52.273s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.00 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.408248290464Epoch 7 of 15 took 52.386s 
+  training loss (in-iteration):		nan 
+  train accuracy:		10.00 % 
+  validation accuracy:		10.00 % 
+Incressing LR. New LR:0.377964473009-------------NEW ERA -----------
+Epoch 1 of 15 took 830.078s 
+  training loss (in-iteration):		1.652198 
+  train accuracy:		40.62 % 
+  validation accuracy:		54.29 % 
+Incressing LR. New LR:0.01Epoch 2 of 15 took 829.924s 
+  training loss (in-iteration):		1.174021 
+  train accuracy:		58.92 % 
+  validation accuracy:		62.93 % 
+Incressing LR. New LR:0.00707106781187Epoch 3 of 15 took 829.204s 
+  training loss (in-iteration):		0.776050 
+  train accuracy:		73.38 % 
+  validation accuracy:		74.50 % 
+Incressing LR. New LR:0.0057735026919Epoch 4 of 15 took 823.661s 
+  training loss (in-iteration):		0.609635 
+  train accuracy:		79.16 % 
+  validation accuracy:		77.41 % 
+Incressing LR. New LR:0.005Epoch 6 of 5 took 823.689s 
+  training loss (in-iteration):		0.479416 
+  train accuracy:		83.79 % 
+  validation accuracy:		80.60 % 
+Incressing LR. New LR:0.00408248290464Epoch 7 of 5 took 824.370s 
+  training loss (in-iteration):		0.396127 
+  train accuracy:		86.61 % 
+  validation accuracy:		81.33 % 
+Incressing LR. New LR:0.00377964473009Epoch 8 of 5 took 824.728s 
+  training loss (in-iteration):		0.341886 
+  train accuracy:		88.40 % 
+  validation accuracy:		82.52 % 
+Incressing LR. New LR:0.00353553390593Epoch 9 of 5 took 824.216s 
+  training loss (in-iteration):		0.296065 
+  train accuracy:		90.13 % 
+  validation accuracy:		82.28 % 
+Incressing LR. New LR:0.00333333333333Epoch 10 of 5 took 824.350s 
+  training loss (in-iteration):		0.254425 
+  train accuracy:		91.46 % 
+  validation accuracy:		83.61 % 
+Incressing LR. New LR:0.00316227766017Epoch 10 of 5 took 825.075s 
+  training loss (in-iteration):		0.224682 
+  train accuracy:		92.53 % 
+  validation accuracy:		83.08 % 
+Incressing LR. New LR:0.00316227766017Epoch 11 of 5 took 825.682s 
+  training loss (in-iteration):		0.201229 
+  train accuracy:		93.13 % 
+  validation accuracy:		83.36 % 
+Incressing LR. New LR:0.00301511344578Epoch 12 of 5 took 825.085s 
+  training loss (in-iteration):		0.175996 
+  train accuracy:		93.94 % 
+  validation accuracy:		83.10 % 
+Decressing LR. New LR:0.000301511352882Epoch 13 of 5 took 824.754s 
+  training loss (in-iteration):		0.114264 
+  train accuracy:		96.29 % 
+  validation accuracy:		86.25 % 
+Decressing LR. New LR:3.01511347061e-05Epoch 14 of 5 took 825.690s 
+  training loss (in-iteration):		0.086029 
+  train accuracy:		97.37 % 
+  validation accuracy:		86.38 % 
+Decressing LR. New LR:3.01511354337e-06Epoch 14 of 20 took 824.179s 
+  training loss (in-iteration):		0.082268 
+  train accuracy:		97.45 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:3.01511363432e-07Epoch 15 of 20 took 824.784s 
+  training loss (in-iteration):		0.082426 
+  train accuracy:		97.52 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 16 of 20 took 824.385s 
+  training loss (in-iteration):		0.080212 
+  train accuracy:		97.55 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 17 of 20 took 824.910s 
+  training loss (in-iteration):		0.082253 
+  train accuracy:		97.53 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 18 of 20 took 823.548s 
+  training loss (in-iteration):		0.081772 
+  train accuracy:		97.52 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 19 of 20 took 824.607s 
+  training loss (in-iteration):		0.081031 
+  train accuracy:		97.56 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 20 of 20 took 824.405s 
+  training loss (in-iteration):		0.083671 
+  train accuracy:		97.43 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 21 of 20 took 824.822s 
+  training loss (in-iteration):		0.081490 
+  train accuracy:		97.51 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 22 of 20 took 824.611s 
+  training loss (in-iteration):		0.082698 
+  train accuracy:		97.40 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 23 of 20 took 824.671s 
+  training loss (in-iteration):		0.083717 
+  train accuracy:		97.41 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 24 of 20 took 824.739s 
+  training loss (in-iteration):		0.082643 
+  train accuracy:		97.45 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 25 of 20 took 824.743s 
+  training loss (in-iteration):		0.082946 
+  train accuracy:		97.45 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 26 of 20 took 824.544s 
+  training loss (in-iteration):		0.083475 
+  train accuracy:		97.46 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 27 of 20 took 825.556s 
+  training loss (in-iteration):		0.082461 
+  train accuracy:		97.53 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 28 of 20 took 824.795s 
+  training loss (in-iteration):		0.082565 
+  train accuracy:		97.44 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 29 of 20 took 825.197s 
+  training loss (in-iteration):		0.083526 
+  train accuracy:		97.48 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 30 of 20 took 824.730s 
+  training loss (in-iteration):		0.082877 
+  train accuracy:		97.53 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 31 of 20 took 823.637s 
+  training loss (in-iteration):		0.081800 
+  train accuracy:		97.49 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 32 of 20 took 825.161s 
+  training loss (in-iteration):		0.082791 
+  train accuracy:		97.47 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07Epoch 33 of 20 took 824.557s 
+  training loss (in-iteration):		0.083216 
+  train accuracy:		97.44 % 
+  validation accuracy:		86.35 % 
+Decressing LR. New LR:1e-07-------------NEW ERA -----------
+Epoch 1 of 5 took 2612.655s 
+  training loss (in-iteration):		1.794610 
+  train accuracy:		37.33 % 
+  validation accuracy:		49.64 % 
+Incressing LR. New LR:0.01Epoch 2 of 5 took 2612.031s 
+  training loss (in-iteration):		1.280518 
+  train accuracy:		55.30 % 
+  validation accuracy:		62.92 % 
+Incressing LR. New LR:0.00707106781187Epoch 3 of 5 took 2613.293s 
+  training loss (in-iteration):		0.842428 
+  train accuracy:		71.22 % 
+  validation accuracy:		72.81 % 
+Incressing LR. New LR:0.0057735026919Epoch 4 of 5 took 2612.808s 
+  training loss (in-iteration):		0.642570 
+  train accuracy:		78.38 % 
+  validation accuracy:		76.90 % 
+Incressing LR. New LR:0.005Epoch 5 of 5 took 2613.437s 
+  training loss (in-iteration):		0.522002 
+  train accuracy:		82.42 % 
+  validation accuracy:		80.15 % 
+Incressing LR. New LR:0.004472135955Epoch 6 of 10 took 2612.829s 
+  training loss (in-iteration):		0.438904 
+  train accuracy:		85.59 % 
+  validation accuracy:		80.72 % 
+Incressing LR. New LR:0.00408248290464Epoch 7 of 10 took 2612.921s 
+  training loss (in-iteration):		0.367384 
+  train accuracy:		87.89 % 
+  validation accuracy:		82.57 % 
+Incressing LR. New LR:0.00377964473009Epoch 8 of 10 took 2612.372s 
+  training loss (in-iteration):		0.314712 
+  train accuracy:		89.82 % 
+  validation accuracy:		82.61 % 
+Incressing LR. New LR:0.00353553390593Epoch 9 of 10 took 2612.832s 
+  training loss (in-iteration):		0.268006 
+  train accuracy:		91.27 % 
+  validation accuracy:		83.37 % 
+Incressing LR. New LR:0.00333333333333Epoch 10 of 10 took 2611.380s 
+  training loss (in-iteration):		0.233491 
+  train accuracy:		92.54 % 
+  validation accuracy:		83.65 % 
+Incressing LR. New LR:0.00316227766017Epoch 6 of 5 took 2614.055s 
+  training loss (in-iteration):		0.198320 
+  train accuracy:		93.69 % 
+  validation accuracy:		83.58 % 
+Decressing LR. New LR:0.00031622776296Epoch 7 of 5 took 2613.106s 
+  training loss (in-iteration):		0.129130 
+  train accuracy:		96.12 % 
+  validation accuracy:		86.62 % 
+Incressing LR. New LR:0.00377964473009Epoch 8 of 5 took 2614.122s 
+  training loss (in-iteration):		0.195176 
+  train accuracy:		93.68 % 
+  validation accuracy:		84.40 % 
+Incressing LR. New LR:0.00353553390593Epoch 9 of 5 took 2620.602s 
+  training loss (in-iteration):		0.175451 
+  train accuracy:		94.34 % 
+  validation accuracy:		84.11 % 
+Decressing LR. New LR:0.000353553378955Epoch 10 of 5 took 2799.823s 
+  training loss (in-iteration):		0.103469 
+  train accuracy:		97.03 % 
+  validation accuracy:		87.22 % 
+Incressing LR. New LR:0.00316227766017-------------NEW ERA -----------
+Epoch 1 of 15 took 2614.827s 
+  training loss (in-iteration):		3.366183 
+  train accuracy:		35.23 % 
+  validation accuracy:		48.10 % 
+Incressing LR. New LR:0.01Epoch 2 of 15 took 2613.958s 
+  training loss (in-iteration):		2.830347 
+  train accuracy:		52.00 % 
+  validation accuracy:		61.05 % 
+Incressing LR. New LR:0.00707106781187Epoch 3 of 15 took 2616.263s 
+  training loss (in-iteration):		2.37501
+  train accuracy:		68.11 % 
+  validation accuracy:		71.69 % 
+Incressing LR. New LR:0.0057735026919Epoch 4 of 15 took 2616.470s 
+  training loss (in-iteration):		2.145242 
+  train accuracy:		75.99 % 
+  validation accuracy:		76.45 % 
+Incressing LR. New LR:0.005Epoch 5 of 15 took 2616.778s 
+  training loss (in-iteration):		1.999831 
+  train accuracy:		80.51 % 
+  validation accuracy:		78.24 % 
+Incressing LR. New LR:0.004472135955Epoch 6 of 15 took 2615.924s 
+  training loss (in-iteration):		1.896365 
+  train accuracy:		83.83 % 
+  validation accuracy:		78.93 % 
+Incressing LR. New LR:0.00408248290464Epoch 7 of 15 took 2614.402s 
+  training loss (in-iteration):		1.811843 
+  train accuracy:		86.51 % 
+  validation accuracy:		80.42 % 
+Incressing LR. New LR:0.00377964473009Epoch 8 of 15 took 2617.411s 
+  training loss (in-iteration):		1.741736 
+  train accuracy:		88.54 % 
+  validation accuracy:		80.98 % 
+Incressing LR. New LR:0.00353553390593Epoch 9 of 15 took 2617.611s 
+  training loss (in-iteration):		1.686855 
+  train accuracy:		89.97 % 
+  validation accuracy:		81.28 % 
