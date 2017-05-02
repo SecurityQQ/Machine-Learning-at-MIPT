@@ -1,16 +1,17 @@
+## Results
 Лучшее качество кросс-энтропии для GoogLENET: $2.04704605341$ (1400 эпох)
 Лучшее качество кросс-энтропии для RESNET50: $2.57693591595$ (114 эпох)
 
-Получившиеся подписи GoogLENET:
+### Получившиеся подписи GoogLENET:
 - a small dog laying in a grassy field
 - a small cat is sitting on the green grass
 - a very cute small furry animal in the grass
-RESNET50:
+
+### RESNET50:
 - a dog is sitting on the floor with a dog
 Больше деталей смотрите в ноутбуках Malyshev_BEST_RESULTS_LENET.ipynb и Malyshev_WITH_RESNET.ipynb 
 
-Теор. вопросы:
-<h1 align="center">First of all -- Checking Questions</h1> 
+<h1 align="center">Теор. вопросы</h1> 
 
 **Вопрос 1**: Можно ли использовать сверточные сети для классификации текстов? Если нет обоснуйте :D, если да то как? как решить проблему с произвольной длинной входа?
 
