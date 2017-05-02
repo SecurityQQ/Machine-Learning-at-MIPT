@@ -9,6 +9,7 @@
 
 ### RESNET50:
 - a dog is sitting on the floor with a dog
+
 Больше деталей смотрите в ноутбуках Malyshev_BEST_RESULTS_LENET.ipynb и Malyshev_WITH_RESNET.ipynb 
 
 <h1 align="center">Теор. вопросы</h1> 
